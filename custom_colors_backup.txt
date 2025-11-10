@@ -1,0 +1,12 @@
+Red,32,0,0
+White,27,20,13
+Hot Pink,38,0,6
+Lime,32,30,0
+Orange,64,10,0
+Pink,64,10,10
+Teal,0,40,20
+Green,0,64,0
+Yellow,64,32,0
+Blue,0,0,64
+Black,0,0,0
+Lavender,19,0,50
