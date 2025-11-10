@@ -1,0 +1,63 @@
+{
+  "753845961027": {
+    "name": "ICEPUN",
+    "primary_color": [
+      255,
+      0,
+      0
+    ],
+    "secondary_color": [
+      255,
+      255,
+      255
+    ]
+  },
+  "862453189571": {
+    "name": "GEMINI",
+    "primary_color": [
+      0,
+      100,
+      255
+    ],
+    "secondary_color": [
+      255,
+      255,
+      0
+    ]
+  },
+  "203187145800": {
+    "name": "USA",
+    "primary_color": "Red",
+    "secondary_color": "None"
+  },
+  "584191007919": {
+    "name": "Megan",
+    "primary_color": "Red",
+    "secondary_color": "Teal"
+  },
+  "783399796651": {
+    "name": "USSR",
+    "primary_color": "Red",
+    "secondary_color": "None"
+  },
+  "891354532949": {
+    "name": "Grandpa",
+    "primary_color": "Red",
+    "secondary_color": "Teal"
+  },
+  "892244773968": {
+    "name": "Maria",
+    "primary_color": "Red",
+    "secondary_color": "None"
+  },
+  "893134490631": {
+    "name": "Andrew",
+    "primary_color": "Yellow",
+    "secondary_color": "Teal"
+  },
+  "820421971074": {
+    "name": "Josie",
+    "primary_color": "Pink",
+    "secondary_color": "Red"
+  }
+}
